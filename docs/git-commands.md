@@ -6,8 +6,6 @@ gh pr create --base main --head {branch} --title "{title}" --body "{body}"
 ## Git PR Merge
 ```bash
 gh pr merge {pr-number} --merge --delete-branch
-git checkout main
-git pull origin main
 ```
 
 ## View Current PR Status
