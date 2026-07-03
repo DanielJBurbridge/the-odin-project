@@ -42,9 +42,9 @@ Coursework and practice projects from The Odin Project, organized by curriculum 
 | Introduction to HTML and CSS | ✅ Complete | 03/07/2026 | 03/07/2026 |
 | Elements and Tags | ✅ Complete | 03/07/2026 | 03/07/2026 |
 | HTML Boilerplate | ✅ Complete | 03/07/2026 | 03/07/2026 |
-| Working with Text | 🟡 In Progress | 03/07/2026 | — |
-| Lists | ⚪ Not Started | — | — |
-| Links and Images | ⚪ Not Started | — | — |
+| Working with Text | ✅ Complete | 03/07/2026 | 03/07/2026 |
+| Lists | ✅ Complete | 03/07/2026 | 03/07/2026 |
+| Links and Images | 🟡 In Progress | 03/07/2026 | — |
 | Commit Messages | ⚪ Not Started | — | — |
 | Project: Recipes | ⚪ Not Started | — | — |
 
