@@ -52,7 +52,7 @@ Coursework and practice projects from The Odin Project, organized by curriculum 
 
 | Lesson | Status | Started | Completed |
 | --- | --- | --- | --- |
-| Intro to CSS | 🟡 In Progress | — | — |
+| Intro to CSS | 🟡 In Progress | 07/07/2026 | — |
 | The Cascade | ⚪ Not Started | — | — |
 | Inspecting HTML and CSS | ⚪ Not Started | — | — |
 | The Box Model | ⚪ Not Started | — | — |
