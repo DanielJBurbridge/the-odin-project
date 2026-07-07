@@ -44,9 +44,9 @@ Coursework and practice projects from The Odin Project, organized by curriculum 
 | HTML Boilerplate | ✅ Complete | 03/07/2026 | 03/07/2026 |
 | Working with Text | ✅ Complete | 03/07/2026 | 03/07/2026 |
 | Lists | ✅ Complete | 03/07/2026 | 03/07/2026 |
-| Links and Images | 🟡 In Progress | 03/07/2026 | — |
-| Commit Messages | ⚪ Not Started | — | — |
-| Project: Recipes | ⚪ Not Started | — | — |
+| Links and Images | ✅ Complete | 03/07/2026 | 07/07/2026 |
+| Commit Messages | ✅ Complete | 07/07/2026 | 07/07/2026 |
+| Project: Recipes | 🟡 In Progress | 07/07/2026 | — |
 
 ### 05 CSS Foundations
 
