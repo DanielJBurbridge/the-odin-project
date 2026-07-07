@@ -46,13 +46,13 @@ Coursework and practice projects from The Odin Project, organized by curriculum 
 | Lists | ✅ Complete | 03/07/2026 | 03/07/2026 |
 | Links and Images | ✅ Complete | 03/07/2026 | 07/07/2026 |
 | Commit Messages | ✅ Complete | 07/07/2026 | 07/07/2026 |
-| Project: Recipes | 🟡 In Progress | 07/07/2026 | — |
+| Project: Recipes | ✅ Complete | 07/07/2026 | 07/07/2026 |
 
 ### 05 CSS Foundations
 
 | Lesson | Status | Started | Completed |
 | --- | --- | --- | --- |
-| Intro to CSS | ⚪ Not Started | — | — |
+| Intro to CSS | 🟡 In Progress | — | — |
 | The Cascade | ⚪ Not Started | — | — |
 | Inspecting HTML and CSS | ⚪ Not Started | — | — |
 | The Box Model | ⚪ Not Started | — | — |
