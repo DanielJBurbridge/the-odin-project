@@ -52,11 +52,11 @@ Coursework and practice projects from The Odin Project, organized by curriculum 
 
 | Lesson | Status | Started | Completed |
 | --- | --- | --- | --- |
-| Intro to CSS | 🟡 In Progress | 07/07/2026 | — |
-| The Cascade | ⚪ Not Started | — | — |
-| Inspecting HTML and CSS | ⚪ Not Started | — | — |
-| The Box Model | ⚪ Not Started | — | — |
-| Block and Inline | ⚪ Not Started | — | — |
+| Intro to CSS | ✅ Complete | 07/07/2026 | 20/07/2026 |
+| The Cascade | ✅ Complete | 21/07/2026 | 21/07/2026 |
+| Inspecting HTML and CSS | ✅ Complete | 21/07/2026 | 21/07/2026 |
+| The Box Model | ✅ Complete | 21/07/2026 | 21/07/2026 |
+| Block and Inline | 🟡 In Progress | 21/07/2026 |  |
 
 ### 06 Flexbox
 
