@@ -4,7 +4,7 @@ Coursework and practice projects from The Odin Project, organized by curriculum 
 
 ## Foundations
 
-**Status:** 🟡 In Progress  
+**Status:** 🟡 Intentional Pause - The Odin Project is not currently aligning with my actual learning goals. I have found a recent interest in 3D printing & am going to start learning CAD. I still manage a home lab, and therefore will be circling back at some stage, additionally, I'll be bringing my prints "up" with coding at some stage, but - this is not an abandoned forgotten about project - this is an intentional pause. The distinction matters... to me.  
 **Started:** 01/07/2026  
 **Completed:** —  
 
